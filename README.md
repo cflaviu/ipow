@@ -1,5 +1,5 @@
 # ipow
-My variant of integer pow.
+My variant of integer pow using C++20.
 
 Performance comparison (unsafe) ipow vs std::pow
 
