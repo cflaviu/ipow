@@ -1,3 +1,12 @@
+<p align="left">
+    <a href="https://isocpp.org/">
+        <img src="https://img.shields.io/badge/language-C%2B%2B20-blue.svg">
+    </a>
+    <a href="https://unlicense.org/">
+        <img src="https://img.shields.io/github/license/cflaviu/co_fsm">
+    </a>
+</p>
+
 # ipow
 Another variant of integer pow but using C++20.
 
